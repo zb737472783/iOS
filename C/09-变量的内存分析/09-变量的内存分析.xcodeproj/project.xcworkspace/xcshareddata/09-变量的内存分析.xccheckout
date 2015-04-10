@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>62C7700D-0A8E-44A0-8141-0DB9E24A75ED</string>
+	<key>IDESourceControlProjectName</key>
+	<string>09-变量的内存分析</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>57C412DF-BC21-4EB8-B101-FFC800F2E45E</key>
+		<string>https://github.com/zb737472783/iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>C/09-变量的内存分析/09-变量的内存分析.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>57C412DF-BC21-4EB8-B101-FFC800F2E45E</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zb737472783/iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>57C412DF-BC21-4EB8-B101-FFC800F2E45E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>57C412DF-BC21-4EB8-B101-FFC800F2E45E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
