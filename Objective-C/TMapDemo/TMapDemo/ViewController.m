@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+
+    self.mapview = [[TMapView alloc] initWithFrame:self.view.frame];
+    [self.view addSubview:self.mapview];
 }
 
 - (void)didReceiveMemoryWarning {

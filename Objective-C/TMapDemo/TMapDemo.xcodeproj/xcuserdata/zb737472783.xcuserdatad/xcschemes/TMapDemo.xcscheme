@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "16D47C301AD750F0008EAA83"
+               BlueprintIdentifier = "16DC8F731AD79DDE0016E442"
                BuildableName = "TMapDemo.app"
                BlueprintName = "TMapDemo"
                ReferencedContainer = "container:TMapDemo.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "16D47C4C1AD750F0008EAA83"
+               BlueprintIdentifier = "16DC8F8F1AD79DDF0016E442"
                BuildableName = "TMapDemoTests.xctest"
                BlueprintName = "TMapDemoTests"
                ReferencedContainer = "container:TMapDemo.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "16D47C4C1AD750F0008EAA83"
+               BlueprintIdentifier = "16DC8F8F1AD79DDF0016E442"
                BuildableName = "TMapDemoTests.xctest"
                BlueprintName = "TMapDemoTests"
                ReferencedContainer = "container:TMapDemo.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "16D47C301AD750F0008EAA83"
+            BlueprintIdentifier = "16DC8F731AD79DDE0016E442"
             BuildableName = "TMapDemo.app"
             BlueprintName = "TMapDemo"
             ReferencedContainer = "container:TMapDemo.xcodeproj">
@@ -76,7 +76,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "16D47C301AD750F0008EAA83"
+            BlueprintIdentifier = "16DC8F731AD79DDE0016E442"
             BuildableName = "TMapDemo.app"
             BlueprintName = "TMapDemo"
             ReferencedContainer = "container:TMapDemo.xcodeproj">
@@ -95,7 +95,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "16D47C301AD750F0008EAA83"
+            BlueprintIdentifier = "16DC8F731AD79DDE0016E442"
             BuildableName = "TMapDemo.app"
             BlueprintName = "TMapDemo"
             ReferencedContainer = "container:TMapDemo.xcodeproj">

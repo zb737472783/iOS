@@ -7,9 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "TMapView.h"
 
 @interface ViewController : UIViewController
 
+@property (nonatomic, strong) TMapView *mapview;
 
 @end
 
