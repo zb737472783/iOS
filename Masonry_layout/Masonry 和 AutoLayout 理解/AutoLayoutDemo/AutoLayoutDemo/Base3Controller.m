@@ -1,5 +1,5 @@
 //
-//  BaseController.m
+//  Base3Controller.m
 //  AutoLayoutDemo
 //
 //  Created by 星尘 on 16/6/6.
@@ -7,13 +7,13 @@
 //  Copyright © 2016年 星尘. All rights reserved.
 //
 
-#import "BaseController.h"
+#import "Base3Controller.h"
 
-@interface BaseController ()
+@interface Base3Controller ()
 
 @end
 
-@implementation BaseController
+@implementation Base3Controller
 
 #pragma mark - 延迟加载
 
@@ -21,17 +21,12 @@
 - (void)viewWillAppear:(BOOL)animated
 {
     [super viewWillAppear:animated];
-    [self.navigationController setNavigationBarHidden:NO animated:NO];
 }
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-
-    self.view.backgroundColor = [UIColor whiteColor];
-    self.edgesForExtendedLayout = UIRectEdgeNone;
-    self.automaticallyAdjustsScrollViewInsets = NO;
 }
 
 - (void)viewDidDisappear:(BOOL)animated
