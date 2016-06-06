@@ -19,4 +19,11 @@
 }
 */
 
+- (CGSize)intrinsicContentSize
+{
+    CGSize size = [super intrinsicContentSize];
+    DDLogInfo(@"%@", NSStringFromCGSize(size));
+    return size;
+}
+
 @end
